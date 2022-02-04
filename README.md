@@ -1,0 +1,2 @@
+# trucks
+trucks maven build
